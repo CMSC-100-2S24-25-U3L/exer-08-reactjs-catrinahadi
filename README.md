@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SSeOZes0)
+Title: React components of Lazado E-commerce site
+
+Author: HADI, Maria Catrina O. 
+
+Section: CMSC 100 - U3L 
+
+Exercise 08
+
+Description: This program is about designing a new e-commerce website for Lazado using the MERN stack. The focus is on implementing reusable React components to improve modularity. It includes product listings, an add-to-cart feature, and a navigation bar.
+
+Github Page: 
+
+
